@@ -6,13 +6,13 @@
 ## 📌 Overview  
 This project presents a smart IoT-based pet feeding system designed to automate feeding while enabling real-time monitoring and remote control. The system uses an ESP32 microcontroller integrated with sensors and actuators to ensure pets are fed on time, even when the owner is away.
 
-It supports both **automatic scheduled feeding** and **manual control via smartphone**, making it flexible and reliable.
+It supports both **automatic scheduled feeding** and **manual control using smartphone**, making it flexible and reliable.
 
 ---
 
 ## 🚀 Features  
 - ⏰ Scheduled automatic feeding  
-- 📱 Remote control via Blynk mobile app  
+- 📱 Remote control using Blynk mobile app  
 - 📡 Real-time food level monitoring  
 - 🐕 Motion-based feeding using PIR sensors  
 - 🔔 Alerts using buzzer and LED  
