@@ -106,19 +106,5 @@ The system consists of four main layers:
 
 ---
 
-## 📚 Documentation  
-Full project report is included in this repository.
-
----
-
-## 👨‍💻 Authors  
-- Nasif Abdullah  
-- Md. Mahfujur Rahman  
-- Sajjad Hossain Jim  
-- Ahmed As-Sami Nafis  
-- Fariha Rahman Aisharjo  
-
----
-
 ## 📌 Conclusion  
 This project demonstrates how IoT can be applied to automate daily tasks like pet feeding while ensuring reliability, flexibility, and real-time monitoring. It is scalable and can be enhanced with advanced technologies like AI and computer vision.
